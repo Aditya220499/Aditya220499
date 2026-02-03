@@ -66,11 +66,11 @@ With **4 years of professional experience in the software industry**, I am now f
 
 ---
 
-## 🌟 My Vision
+ 🌟 My Vision
 
-> *To become a skilled RTL / Verification Engineer who applies  
+> To become a skilled RTL / Verification Engineer who applies  
 software-level precision, debugging expertise, and structured engineering  
-to deliver reliable and efficient silicon designs.*
+to deliver reliable and efficient silicon designs.
 
 ---
 
@@ -86,10 +86,10 @@ to deliver reliable and efficient silicon designs.*
 
 ## 🎯 Career Goals
 
-- Master **UVM-based Functional Verification**
 - Build reusable industry-standard verification environments  
 - Contribute to open-source silicon + hardware projects  
-- Grow into a professional **RTL Design / Verification Engineer** role  
+- Grow into a professional **RTL Design / Verification Engineer** role
+- Master UVM-based Functional Verification
 
 ---
 
