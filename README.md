@@ -2,24 +2,24 @@
 
 🚀 **Aspiring RTL Design & Verification Engineer**  
 🔧 Skilled in **SystemVerilog | UVM | Verilog | Digital Design**  
-💻 Former Full Stack Developer bringing strong debugging & automation mindset into VLSI
+💻 Former Software Developer bringing strong debugging & automation mindset into VLSI
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am an engineer transitioning from the software industry into the domain of  
+I am an engineer transitioning into the domain of  
 **VLSI RTL Design and Functional Verification**.
 
-With **4 years of professional experience in software development**, I now focus on building expertise in:
+With **4 years of professional experience in the software industry**, I am now focused on developing expertise in:
 
 - RTL Design using **Verilog & SystemVerilog**
-- Verification using **UVM Methodology**
-- Testbench Architecture & Debugging
-- System-level Digital Design Concepts
+- Functional Verification using **UVM Methodology**
+- Testbench Architecture, Debugging & Coverage
+- Digital Design & System Architecture Concepts
 - Linux + TCL-based Automation for EDA workflows
 
-🎓 Currently pursuing a **Post Graduate Diploma in VLSI Design**, with hands-on RTL projects available in my GitHub repositories.
+🎓 I have completed my **Post Graduate Diploma in VLSI Design from CDAC Pune**, and I actively work on RTL and verification projects available in my GitHub repositories.
 
 ---
 
@@ -29,49 +29,48 @@ With **4 years of professional experience in software development**, I now focus
 - Combinational & Sequential Logic Design  
 - FSM Design & Optimization  
 - Synthesizable Verilog Coding Practices  
-- Modular RTL Development  
+- Modular and Scalable RTL Development  
 
 ### ✅ Functional Verification (SystemVerilog + UVM)
 - Constraint Random Verification  
-- UVM Components (Driver, Monitor, Scoreboard, Agent, Env)  
-- Functional Coverage & Assertions  
-- Debugging Simulation Failures  
+- UVM Components (Driver, Monitor, Scoreboard, Agent, Environment)  
+- Functional Coverage & SystemVerilog Assertions  
+- Debugging Simulation and Design Failures  
 
 ### ✅ Hardware & System Knowledge
 - Digital System Architecture Fundamentals  
-- Timing, Synthesis & Design Flow Concepts  
-- Verification Planning & Methodologies  
+- RTL-to-GDS Flow Awareness  
+- Timing, Synthesis & Verification Methodologies  
 
 ---
 
-## 🛠 Tools & Technical Skills
+## 🛠 Skills & Tools
 
 ### Hardware Design & Verification
 - **Verilog**
 - **SystemVerilog**
 - **UVM**
-- Testbenches & Assertions  
-- Functional Coverage  
+- Testbenches, Assertions & Coverage  
 
-### Automation & Environment
+### Automation & Development Environment
 - **Linux**
 - **TCL Scripting**
-- Git & Version Control  
+- Git / Version Control  
 - Simulation Workflow & Debugging  
 
-### Strong Software Foundation (Advantage I Bring)
-- Structured problem-solving  
-- Clean coding discipline  
-- Automation mindset  
-- Scalable system-level thinking  
+### Strong Software Background (My Advantage)
+- Structured Problem Solving  
+- Clean Coding Discipline  
+- Automation & Scripting Mindset  
+- System-Level Engineering Approach  
 
 ---
 
 ## 🌟 My Vision
 
-> *To become a skilled Verification / RTL Engineer who applies  
+> *To become a skilled RTL / Verification Engineer who applies  
 software-level precision, debugging expertise, and structured engineering  
-to deliver reliable silicon designs.*
+to deliver reliable and efficient silicon designs.*
 
 ---
 
@@ -88,7 +87,7 @@ to deliver reliable silicon designs.*
 ## 🎯 Career Goals
 
 - Master **UVM-based Functional Verification**
-- Build industry-standard reusable verification environments  
+- Build reusable industry-standard verification environments  
 - Contribute to open-source silicon + hardware projects  
 - Grow into a professional **RTL Design / Verification Engineer** role  
 
@@ -96,9 +95,7 @@ to deliver reliable silicon designs.*
 
 ## 📫 Connect With Me
 
-🔗 **LinkedIn:** *(Add your profile link here)*  
-📧 **Email:** aditya.lonkar@example.com  
-📂 Explore my repositories for RTL & Verification work  
+🔗 **LinkedIn:** [Aditya Lonkar](https://www.linkedin.com/in/aditya-lonkar-b42825156/)
 
 ---
 
