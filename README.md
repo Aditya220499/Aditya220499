@@ -1,15 +1,105 @@
-# 💫 About Me:
-# 👋 Hi, I'm Aditya Lonkar  <br><br>🌟 **ServiceNow Certified | Full Stack Developer | Aspiring RTL & Verification Engineer**<br><br>---<br><br>## 🚀 About Me<br><br>I’m an experienced IT professional with **4 years of software industry experience** —  <br>- 🧩 **2 years as a ServiceNow Developer** (ITSM Certified)  <br>- 💻 **2 years as a Full Stack Developer** working with **React, Next.js, Node.js, SQL, PostgreSQL, and MongoDB**<br><br>I also hold **2 AWS certifications**, which helped me gain strong insights into **scalable, cloud-based architectures** and deployment.<br><br>Currently, I’m pursuing my **Post Graduate Diploma in VLSI Design**, exploring **Digital Design, Verilog, SystemVerilog, and Verification methodologies**.  <br>I’ve completed multiple Verilog projects (available in my repos) and am now diving deeper into **SystemVerilog and UVM**.<br><br>---<br><br>## ⚙️ My Vision<br><br>> "Bridging the gap between software and hardware —  <br>>  applying clean coding practices, debugging discipline, and system-level thinking  <br>>  to create efficient and reliable RTL and verification environments."<br><br>I’m passionate about **digital design**, **RTL coding**, and **hardware verification**, and I aim to become a **VLSI Design or Verification Engineer** who brings software precision to silicon.<br><br>---<br><br>## 🧠 Tech Stack & Skills<br><br>**Software Development:**  <br>`React` • `Next.js` • `Node.js` • `Express` • `SQL` • `PostgreSQL` • `MongoDB`  <br><br>**Cloud & Tools:**  <br>`AWS` • `Docker` • `Git` • `CI/CD`  <br><br>**VLSI & Hardware Design:**  <br>`Verilog` • `SystemVerilog` • `RTL Design` • `Testbenches` • `Synthesis`  <br><br>---<br><br>## 📈 My Transition to VLSI<br><br>After years in software development, I wanted to go deeper —  <br>beyond code execution to **how logic is implemented in real hardware**.  <br><br>My software background gives me a strong base in:<br>- 🧩 **Structured design and debugging** — key in RTL and verification  <br>- ⚡ **Automation & scripting** — invaluable in testbench development  <br>- 💡 **System-level understanding** — bridging hardware–software interaction  <br><br>Now, I’m combining these with **VLSI fundamentals** to build optimized and reliable hardware systems.<br><br>---<br><br>## 🎯 Future Goals<br><br>- Build advanced RTL designs using Verilog/SystemVerilog  <br>- Master UVM-based verification environments  <br>- Contribute to open-source silicon design projects  <br>- Continue blending software engineering best practices into hardware design workflows  <br><br>---<br><br>## 📫 Let’s Connect<br><br>💼 [LinkedIn](https://www.linkedin.com/in/adityalonkar)  <br>🌐 [Portfolio / GitHub Projects](https://github.com/adityalonkar)  <br>📧 **aditya.lonkar@example.com** *(replace with your real email)*  <br><br>---<br><br>⭐ *“The best engineers are those who never stop learning —  <br>from code to circuits, from logic to layout.”*<br>
+# 👋 Hi, I'm Aditya Lonkar
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-lonkar-b42825156/) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya220499&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya220499&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya220499&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 **Aspiring RTL Design & Verification Engineer**  
+🔧 Skilled in **SystemVerilog | UVM | Verilog | Digital Design**  
+💻 Former Full Stack Developer bringing strong debugging & automation mindset into VLSI
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aditya220499&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+I am an engineer transitioning from the software industry into the domain of  
+**VLSI RTL Design and Functional Verification**.
+
+With **4 years of professional experience in software development**, I now focus on building expertise in:
+
+- RTL Design using **Verilog & SystemVerilog**
+- Verification using **UVM Methodology**
+- Testbench Architecture & Debugging
+- System-level Digital Design Concepts
+- Linux + TCL-based Automation for EDA workflows
+
+🎓 Currently pursuing a **Post Graduate Diploma in VLSI Design**, with hands-on RTL projects available in my GitHub repositories.
+
+---
+
+## 🔍 Current Domain Focus
+
+### ✅ RTL Design
+- Combinational & Sequential Logic Design  
+- FSM Design & Optimization  
+- Synthesizable Verilog Coding Practices  
+- Modular RTL Development  
+
+### ✅ Functional Verification (SystemVerilog + UVM)
+- Constraint Random Verification  
+- UVM Components (Driver, Monitor, Scoreboard, Agent, Env)  
+- Functional Coverage & Assertions  
+- Debugging Simulation Failures  
+
+### ✅ Hardware & System Knowledge
+- Digital System Architecture Fundamentals  
+- Timing, Synthesis & Design Flow Concepts  
+- Verification Planning & Methodologies  
+
+---
+
+## 🛠 Tools & Technical Skills
+
+### Hardware Design & Verification
+- **Verilog**
+- **SystemVerilog**
+- **UVM**
+- Testbenches & Assertions  
+- Functional Coverage  
+
+### Automation & Environment
+- **Linux**
+- **TCL Scripting**
+- Git & Version Control  
+- Simulation Workflow & Debugging  
+
+### Strong Software Foundation (Advantage I Bring)
+- Structured problem-solving  
+- Clean coding discipline  
+- Automation mindset  
+- Scalable system-level thinking  
+
+---
+
+## 🌟 My Vision
+
+> *To become a skilled Verification / RTL Engineer who applies  
+software-level precision, debugging expertise, and structured engineering  
+to deliver reliable silicon designs.*
+
+---
+
+## 📌 What You'll Find in My GitHub
+
+🔹 Verilog RTL Design Projects  
+🔹 SystemVerilog Testbenches  
+🔹 UVM-Based Verification Environments *(in progress)*  
+🔹 Digital Design Practice Modules  
+🔹 Automation Scripts for Simulation Flow  
+
+---
+
+## 🎯 Career Goals
+
+- Master **UVM-based Functional Verification**
+- Build industry-standard reusable verification environments  
+- Contribute to open-source silicon + hardware projects  
+- Grow into a professional **RTL Design / Verification Engineer** role  
+
+---
+
+## 📫 Connect With Me
+
+🔗 **LinkedIn:** *(Add your profile link here)*  
+📧 **Email:** aditya.lonkar@example.com  
+📂 Explore my repositories for RTL & Verification work  
+
+---
+
+⭐ *“From Software to Silicon — Engineering with Precision.”*
