@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Lonkar
 
-🚀 **Aspiring RTL Design & Verification Engineer**  
+🚀 ** RTL Design & Verification Engineer**  
 🔧 Skilled in ** Verilog | SystemVerilog | UVM | Digital Design**  
 💻 Former Software Developer bringing strong debugging & automation mindset into VLSI
 
