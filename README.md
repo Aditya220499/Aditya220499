@@ -8,8 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I am an
-**VLSI RTL Design and Functional Verification**.
+I am **VLSI RTL Design and Functional Verification**.
 
 With **4 years of professional experience in the software industry**, I am now focused on developing expertise in:
 
