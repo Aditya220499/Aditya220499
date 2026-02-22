@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-I am an engineer transitioning into  
+I am an engineer transitioning 
 **VLSI RTL Design and Functional Verification**.
 
 With **4 years of professional experience in the software industry**, I am now focused on developing expertise in:
