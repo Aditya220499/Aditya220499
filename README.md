@@ -38,7 +38,7 @@ With **4+ years of professional experience in the software industry**, I am now 
 
 ### ✅ Hardware & System Knowledge
 - Digital System Architecture Fundamentals  
-- RTL-to-GDS Flow Awareness  
+- RTL-to-GDS Flow Awareness 
 - Timing, Synthesis & Verification Methodologies  
 
 ---
