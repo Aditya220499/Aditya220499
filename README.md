@@ -1,4 +1,4 @@
-# 👋 Hey there
+# 👋 Hey Aditya here
 
 🚀 ** RTL Design & Verification Engineer**  
 🔧 Skilled in ** Verilog | SystemVerilog | UVM | Digital Design**  
