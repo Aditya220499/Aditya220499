@@ -1,4 +1,4 @@
-# 👋 Hey Adihere
+# 👋 Hey Aihere
 
 🚀 ** RTL Design & Verification Engineer**  
 🔧 Skilled in ** Verilog | SystemVerilog | UVM | Digital Design**  
