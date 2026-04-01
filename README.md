@@ -1,4 +1,3 @@
-
 # 👋 Hey there..!!!
 
 🚀 ** RTL Design & Verification Engineer**  
