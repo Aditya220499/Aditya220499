@@ -1,7 +1,7 @@
 # 👋 Hey there...!!
 
 🚀 ** RTL Design & Verification Engineer**  
-🔧 Skilled in ** Verilog | SystemVeril og | UV| Digital Design **  
+🔧 Skilled in ** Verilog | SystemVeril og | UVM | Digital Design **  
 💻 Former Software Developer bringing strong debugging & automation mindset into VLSI
 
 ---
