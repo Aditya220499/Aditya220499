@@ -1,4 +1,4 @@
-# 👋 Hey there...!!l
+# 👋 Hey there...!!
 
 🚀 ** RTL Design & Verification Engineer**  
 🔧 Skilled in ** Verilog | SystemVeril og | UVM | Digital Design **  
